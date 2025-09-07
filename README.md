@@ -18,6 +18,8 @@
 </a>
 </div>
 
+## About me
+
 I'm a systems engineer with over nine years 
 of experience developing full-stack solutions. Expert in .Net, Java, Angular, JavaScript, SQL and NoSQL databases and cloud solutions, committed to best 
 practices.
