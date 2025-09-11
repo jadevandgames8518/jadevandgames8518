@@ -28,7 +28,7 @@ This is my community, where you can find some tutorials about how to develop web
 
 ## Skills - Tools - Experience
 
-### **Frontend**
+### *Frontend*
 <div align="left">
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" />
@@ -54,9 +54,15 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />
   </a>&nbsp;&nbsp;
+  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
+  </a>&nbsp;&nbsp; 
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" title="Nginx" width="36" height="36" />
+  </a>&nbsp;&nbsp;
 </div>
 
-### **Backend**
+### *Backend*
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
@@ -67,9 +73,15 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
   </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="36" height="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" title="Express.js" width="36" height="36" />
+  </a>&nbsp;&nbsp; 
 </div>
 
-### **Databases**
+### *Databases*
 <div align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
@@ -77,9 +89,9 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
   </a>&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
-  </a>  
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" title="Maria DB" width="36" height="36" />
+  </a>&nbsp;&nbsp;  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
   </a>&nbsp;&nbsp;
@@ -89,7 +101,7 @@ This is my community, where you can find some tutorials about how to develop web
 </div>
 
 
-### **DevOps & Tools**
+### *DevOps*
 <div align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
@@ -103,21 +115,31 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
   </a>&nbsp;&nbsp;
+</div>
+
+### *Tools*
+<div align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
   </a>&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" title="PowerShell" width="36" height="36" />
+  </a>&nbsp;&nbsp;  
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" />
   </a>&nbsp;&nbsp;
   <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
   </a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" title="Power Bi" width="36" height="36" />
+  </a>&nbsp;&nbsp; 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
   </a>&nbsp;&nbsp;
 </div>
 
-### **SO**
+### *SO*
 <p align="left">
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
