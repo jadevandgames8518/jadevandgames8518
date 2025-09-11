@@ -150,6 +150,9 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
   </a>&nbsp;&nbsp;
+  <a href="https://apple.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ## Repositories' Statistics
