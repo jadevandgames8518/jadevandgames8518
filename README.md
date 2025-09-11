@@ -67,7 +67,7 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
   </a>&nbsp;&nbsp; 
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" itle=".Net Core" width="36" height="36" /></a>&nbsp;&nbsp;   
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" title=".Net Core" width="36" height="36" /></a>&nbsp;&nbsp;   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" />
   </a>&nbsp;&nbsp;
