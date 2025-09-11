@@ -66,7 +66,8 @@ This is my community, where you can find some tutorials about how to develop web
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; 
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" itle=".Net Core" width="36" height="36" /></a>&nbsp;&nbsp;   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" />
   </a>&nbsp;&nbsp;
@@ -159,7 +160,7 @@ This is my community, where you can find some tutorials about how to develop web
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadevandgames8518&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadevandgames8518&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadevandgames8518&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My Github Stats"/>
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
