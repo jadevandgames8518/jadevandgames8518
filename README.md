@@ -18,7 +18,7 @@
 </a>
 </div>
 
-## About me
+## ☕ About me
 
 I'm a systems engineer with over nine years 
 of experience developing full-stack solutions. Expert in .Net, Java, Angular, JavaScript, SQL and NoSQL databases and cloud solutions, committed to best 
@@ -26,7 +26,7 @@ practices.
 
 This is my community, where you can find some tutorials about how to develop web apps, websites, web services, Rest APIs, desktop apps, Backend, frontend, ETLs, Data bases, Operative Systems and others.
 
-## Skills - Tools - Experience
+## 🏆 Skills - Tools - Experience
 
 ### *Frontend*
 <div align="left">
@@ -159,16 +159,16 @@ This is my community, where you can find some tutorials about how to develop web
 
 ## 🏢 My Organizations
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+    <a href="https://github.com/JAWebDevelopment"><img src="./assets/webDevelop.jpeg" width=330 height=180/></a>
+    <a href="https://github.com/JADesktopDevelopments"><img src="./assets/deskDev.jpg" width=330 height=180/></a>
 </div>
 <br/>
 <div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
+    <a href="https://github.com/JABIDevelopments"><img src="./assets/biDev.jpg" width=330 height=180/></a>
+    <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/shellDev.png" width=330 height=180/></a>
 </div>
 
-## Repositories Statistics
+## 📊 Repositories Statistics
 
 <!--![My Github Stats](https://github-readme-stats.vercel.app/api?username=jadevandgames8518&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadevandgames8518&layout=compact)-->
 <p align="left">
@@ -176,7 +176,7 @@ This is my community, where you can find some tutorials about how to develop web
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadevandgames8518&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-## Trophies
+## 🥇 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
