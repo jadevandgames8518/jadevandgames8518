@@ -103,7 +103,6 @@ This is my community, where you can find some tutorials about how to develop web
   </a>&nbsp;&nbsp;
 </div>
 
-
 ### *DevOps*
 <div align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -143,7 +142,7 @@ This is my community, where you can find some tutorials about how to develop web
 </div>
 
 ### *SO*
-<p align="left">
+<div align="left">
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
   </a>&nbsp;&nbsp;
@@ -156,11 +155,26 @@ This is my community, where you can find some tutorials about how to develop web
   <a href="https://apple.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" />
   </a>&nbsp;&nbsp;
-</p>
+</div>
+
+## 🏢 My Organizations
+<div align="center" style="display: flex;">
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+</div>
+<br/>
+<div align="center" style="display: flex;">
+    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
+</div>
 
 ## Repositories Statistics
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=jadevandgames8518&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadevandgames8518&layout=compact)
+<!--![My Github Stats](https://github-readme-stats.vercel.app/api?username=jadevandgames8518&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadevandgames8518&layout=compact)-->
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jadevandgames8518&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadevandgames8518&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
