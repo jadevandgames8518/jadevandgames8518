@@ -159,7 +159,7 @@ This is my community, where you can find some tutorials about how to develop web
 
 ## 🏢 My Organizations
 <div align="center" style="display: flex;">
-    <a href="https://github.com/JAWebDevelopment"><img src="./assets/webDevelop.jpeg" width=330 height=180/></a>
+    <a href="https://github.com/JAWebDevelopments"><img src="./assets/webDevelop.jpeg" width=330 height=180/></a>
     <a href="https://github.com/JADesktopDevelopments"><img src="./assets/deskDev.jpg" width=330 height=180/></a>
 </div>
 <br/>
