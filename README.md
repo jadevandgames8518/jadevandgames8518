@@ -179,6 +179,8 @@ This is my community, where you can find some tutorials about how to develop web
 ## 🥇 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=onedark)](https://github.com/jadevandgames8518/github-profile-trophy)
 
+<img width="100%" src="https://github-trophies.vercel.app/?username=jadevandgames8518&theme=transparent&column=8&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" alt="GitHub Trophies"/>
+
 <!--
 **jadevandgames8518/jadevandgames8518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
