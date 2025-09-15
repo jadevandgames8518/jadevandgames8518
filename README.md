@@ -26,7 +26,7 @@ practices.
 
 This is my community, where you can find some tutorials about how to develop web apps, websites, web services, Rest APIs, desktop apps, Backend, frontend, ETLs, Data bases, Operative Systems and others.
 
-## 🏆 Skills - Tools - Experience
+## 🥇 Skills - Tools - Experience
 
 ### *Frontend*
 <div align="left">
@@ -176,8 +176,11 @@ This is my community, where you can find some tutorials about how to develop web
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadevandgames8518&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-## 🥇 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=onedark)](https://github.com/jadevandgames8518/github-profile-trophy)
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jadevandgames8518&theme=radical" alt="GitHub Trophies" />
+</div>
 
 <img width="100%" src="https://github-trophies.vercel.app/?username=jadevandgames8518&theme=transparent&column=8&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" alt="GitHub Trophies"/>
 
