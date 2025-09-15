@@ -159,18 +159,16 @@ This is my community, where you can find some tutorials about how to develop web
 
 ## 🏢 My Organizations
 <div align="center" style="display: flex;">
-    <a href="https://github.com/JAWebDevelopments"><img src="./assets/webDevelop.jpeg" width=330 height=180/></a>
-    <a href="https://github.com/JADesktopDevelopments"><img src="./assets/deskDev.jpg" width=330 height=180/></a>
+    <a href="https://github.com/JAWebDevelopments"><img src="./assets/webDevelop.jpeg" alt="Web Developments" title="Web Developments" width=330 height=180/></a>
+    <a href="https://github.com/JADesktopDevelopments"><img src="./assets/deskDev.png" alt="Cross-Platform Developments" width=330 title="Cross-Platform Developments" height=180/></a>
 </div>
-<br/>
 <div align="center" style="display: flex;">
-    <a href="https://github.com/JABIDevelopments"><img src="./assets/biDev.jpg" width=330 height=180/></a>
-    <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/shellDev.png" width=330 height=180/></a>
+    <a href="https://github.com/JABIDevelopments"><img src="./assets/biDev.png" alt="ETL and BI Processes" title="ETL and BI Processes" width=330 height=180/></a>
+    <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/shellDev.png" alt="JAShellBatchDevelopments" title="Shell and Batch Developments" width=330 height=180/></a>
 </div>
 
 ## 📊 Repositories Statistics
 
-<!--![My Github Stats](https://github-readme-stats.vercel.app/api?username=jadevandgames8518&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadevandgames8518&layout=compact)-->
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jadevandgames8518&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadevandgames8518&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
