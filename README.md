@@ -166,6 +166,10 @@ This is my community, where you can find some tutorials about how to develop web
     <a href="https://github.com/JABIDevelopments"><img src="./assets/biDev.png" alt="ETL and BI Processes" title="ETL and BI Processes" width=330 height=180/></a>
     <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/shellDev.png" alt="JAShellBatchDevelopments" title="Shell and Batch Developments" width=330 height=180/></a>
 </div>
+<div align="center" style="display: flex;">
+    <a href="https://github.com/JAMyWebDesigns"><img src="./assets/webDesign.jpg" alt="Web Designs" title="Web Designs" width=330 height=180/></a>
+    <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/androidDev.jpg" alt="Android Developments" title="Android Developments" width=330 height=180/></a>
+</div>
 
 ## 📊 Repositories Statistics
 
