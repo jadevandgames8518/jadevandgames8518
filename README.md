@@ -168,7 +168,7 @@ This is my community, where you can find some tutorials about how to develop web
 </div>
 <div align="center" style="display: flex;">
     <a href="https://github.com/JAMyWebDesigns"><img src="./assets/webDesign.jpg" alt="Web Designs" title="Web Designs" width=330 height=180/></a>
-    <a href="https://github.com/JAShellBatchDevelopments"><img src="./assets/androidDev.jpg" alt="Android Developments" title="Android Developments" width=330 height=180/></a>
+    <a href="https://github.com/JAMobileDevelpments"><img src="./assets/androidDev.jpg" alt="Mobile Developments" title="Mobile Developments" width=330 height=180/></a>
 </div>
 
 ## 📊 Repositories Statistics
